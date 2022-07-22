@@ -1,6 +1,5 @@
 FROM gitpod/workspace-full-vnc
 
-LABEL maintainer="Pranav Avva <pranav.avva@gmail.com>"
 
 USER root
 
